@@ -1,9 +1,24 @@
 <h2 align="center">Compilando informações.....</h2>
 
+<h2 align="center">👋 Olá, eu sou Leticia</h2>
+
 <p align="center">
-Olá sou uma Analista de dados em constante evolução, sempre buscando aprender novas tecnologias e explorar o universo da programação.<br>
-📊 Atualmente focada no mundo dos dados, estudando e evoluindo 1% todos os dias.
+💻 Desenvolvedora em formação<br>
+📊 Focada em Análise de Dados<br>
+🐍 Estudando Python, SQL e Power BI<br>
+📚 Aprendendo algo novo todos os dias
 </p>
 
----
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
 
