@@ -3,16 +3,14 @@
 <h2 align="center">👋 Olá, eu sou Leticia</h2>
 
 <p align="center">
-💻 Desenvolvedora em formação<br>
-📊 Focada em Análise de Dados<br>
-🐍 Estudando Python, SQL e Power BI<br>
-📚 Aprendendo algo novo todos os dias
-</p>
+💻 Desenvolvedora em formação, focada em Análise de Dados. Atualmente estou sempre aprendendo acredito que 1% todos os dias faz toda a diferença</p>
 
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker,gcp,mysql,postgres,postman)" />
+  </a>
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
