@@ -7,4 +7,3 @@ Uma Desv em constante evolução, sempre buscando aprender novas tecnologias e e
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
