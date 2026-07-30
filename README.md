@@ -4,7 +4,7 @@
 
 <p align="center">💻 Desenvolvedora em formação, focada em Análise de Dados. <P>
   
-  <p align="center"> Estou sempre buscando conhecimento pois acredito que 1% todos os dias faz toda a diferença</p>
+  <p align="center"> Estou sempre buscando conhecimento pois acredito que 1% todos os dias faz toda a diferença.</p>
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
