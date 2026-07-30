@@ -2,8 +2,7 @@
 
 <h3 align="center">👋 Olá, eu sou Leticia</h3>
 
-<p align="center">💻 Desenvolvedora em formação, focada em Análise de Dados
-Atualmente estou sempre aprendendo acredito que 1% todos os dias faz toda a diferença</p>
+<p align="center">💻 Desenvolvedora em formação, focada em Análise de Dados, estou sempre buscando conhecimento pois acredito que 1% todos os dias faz toda a diferença</p>
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
